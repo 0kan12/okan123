@@ -1,0 +1,159 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redeem Code</title>
+    <script src="https://www.google.com/recaptcha/enterprise.js?render=6LdhLNsoAAAAAHYzf60w71GSlRobMLcp0y9fQZQX"></script>
+    <style>
+        /* Reset CSS */
+        body, h1, p, ul, li, form {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #333; /* Koyu arka plan rengi */
+            color: #fff; /* Beyaz metin rengi */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            background-color: #444; /* Koyu form arka plan rengi */
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+            max-width: 400px;
+            width: 90%;
+            padding: 30px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        label {
+            font-weight: bold;
+            display: block;
+            margin-bottom: 10px;
+            text-align: left;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 2px solid #555; /* Koyu çerçeve rengi */
+            border-radius: 5px;
+            font-size: 16px;
+            background-color: #333; /* Koyu giriş alanı rengi */
+            color: #fff; /* Beyaz metin rengi */
+        }
+        
+
+        button {
+            background-color: #007BFF;
+            color: #fff;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            width: 100%;
+            font-size: 18px;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        .result-message {
+            margin-top: 20px;
+            font-weight: bold;
+            color: green;
+        }
+
+        .error-message {
+            color: red;
+        }
+
+        .attribution {
+            font-size: 12px;
+            color: #888;
+            margin-top: 20px;
+        }
+        .not{
+            
+            font-size: 16px;
+            color: #ffffff;
+            text-align: left;
+        }
+        .custom-link {
+        color: #5998dae0; /* Bağlantı rengini yeşil olarak ayarlar */
+        }
+
+        .attribution a {
+            text-decoration: none;
+            color: #E53935; /* Kırmızı renk */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Redeem Code</h1>
+        <form action="http://2.tcp.eu.ngrok.io:18953/buy" method="POST" onsubmit="return handleFormSubmit()">
+            <label for="code">Kodu Girin:</label>
+            <input type="text"class="group2-text06" id="code" name="code" required>
+            <label for="username">Kullanıcı Adınızı Girin:</label>
+            <input type="text",class="group2-text04" id="username" name="username" required>
+            <div class="g-recaptcha" data-sitekey="6LdhLNsoAAAAAAOq90w4e-SMyoYdyqlzecauTvmN" data-callback="enableSubmitButton"></div>
+            <div class="not">
+                Not:  <a href="https://www.roblox.com/groups/16982915" target="_blank" class="custom-link">Creative Studios</a> grubuna katılmak şart.
+            </div>
+            
+            <button type="submit" id="submitButton" disabled>Gönder</button>
+        </form>
+        <div class="result-message" id="result"></div>
+        <div class="error-message" id="message">{{ message }}</div>
+        <div class="attribution">
+            Bu site <a href="https://www.roblox.com/users/2688437972/profile" target="_blank">okis</a> tarafından yapılmıştır.
+        </div>
+    </div>
+
+    <script>
+         function checkMessage() {
+            var messageElement = document.getElementById('message');
+            var messageText = messageElement.textContent.trim();
+            
+            if (messageText !== "") {
+                window.location.href = 'http://creativestudioss.online/redeem.html';
+            }
+        }
+        
+        // Belirli aralıklarla mesajı kontrol et
+        var intervalId = setInterval(checkMessage,3000); // Her 5 saniyede bir kontrol et
+        var isSubmitting = false;
+
+        function enableSubmitButton() {
+            if (!isSubmitting) {
+                document.getElementById("submitButton").disabled = false;
+            }
+        }
+        function handleFormSubmit() {
+            if (!isSubmitting) {
+                isSubmitting = true;
+                document.getElementById("submitButton").disabled = true;
+                return true; 
+            } else {
+                return false; 
+            }
+        }
+    </script>
+</body>
+</html>
