@@ -1,159 +1,112 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Redeem Code</title>
-    <script src="https://www.google.com/recaptcha/enterprise.js?render=6Le2NtsoAAAAAOcw3QYIcNagO8Jqh4d1iB2iGfro"></script>
+    <title>Anasayfa</title>
     <style>
-        /* Reset CSS */
-        body, h1, p, ul, li, form {
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             margin: 0;
             padding: 0;
+            background-color: #f4f4f4;
         }
 
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #333; /* Koyu arka plan rengi */
-            color: #fff; /* Beyaz metin rengi */
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            min-height: 100vh;
+        header {
+            background-color: #333;
+            padding: 20px;
+            text-align: center;
+            color: #fff;
+        }
+
+        header h1 {
             margin: 0;
+            font-size: 24px;
         }
 
-        .container {
-            background-color: #444; /* Koyu form arka plan rengi */
-            border-radius: 10px;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
-            max-width: 400px;
-            width: 90%;
-            padding: 30px;
+        nav {
+            background-color: #eee;
+            padding: 10px;
             text-align: center;
         }
 
-        h1 {
-            font-size: 24px;
-            margin-bottom: 20px;
+        nav a {
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-weight: bold;
+        }
+
+        form {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
 
         label {
-            font-weight: bold;
             display: block;
             margin-bottom: 10px;
-            text-align: left;
+            font-weight: bold;
         }
-        input[type="text"] {
+
+        input {
             width: 100%;
-            padding: 10px;
-            margin-bottom: 20px;
-            border: 2px solid #555; /* Koyu çerçeve rengi */
-            border-radius: 5px;
+            padding: 12px;
+            margin-bottom: 15px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 4px;
             font-size: 16px;
-            background-color: #333; /* Koyu giriş alanı rengi */
-            color: #fff; /* Beyaz metin rengi */
         }
-        
 
         button {
-            background-color: #007BFF;
+            background-color: #4CAF50;
             color: #fff;
             border: none;
-            padding: 12px 20px;
+            padding: 12px 24px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 18px;
             border-radius: 5px;
             cursor: pointer;
-            width: 100%;
-            font-size: 18px;
-            transition: background-color 0.3s;
+            transition: background-color 0.3s ease;
         }
 
         button:hover {
-            background-color: #0056b3;
+            background-color: #45a049;
         }
 
-        .result-message {
-            margin-top: 20px;
-            font-weight: bold;
-            color: green;
+        center {
+            display: block;
+            text-align: center;
+            margin: 20px 0;
         }
 
-        .error-message {
-            color: red;
-        }
-
-        .attribution {
-            font-size: 12px;
-            color: #888;
-            margin-top: 20px;
-        }
-        .not{
-            
-            font-size: 16px;
-            color: #ffffff;
-            text-align: left;
-        }
-        .custom-link {
-        color: #5998dae0; /* Bağlantı rengini yeşil olarak ayarlar */
-        }
-
-        .attribution a {
-            text-decoration: none;
-            color: #E53935; /* Kırmızı renk */
+        p {
+            font-size: 20px;
+            color: #333;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Redeem Code</h1>
-        <form action="https://ray-humane-hagfish.ngrok-free.app/buy" method="POST" onsubmit="return handleFormSubmit()">
-            <label for="code">Kodu Girin:</label>
-            <input type="text"class="group2-text06" id="code" name="code" required>
-            <label for="username">Kullanıcı Adınızı Girin:</label>
-            <input type="text",class="group2-text04" id="username" name="username" required>
-            <div class="g-recaptcha" data-sitekey="6Le2NtsoAAAAAMGj7hDBG8gVxjC8NStAyvL-QXbd" data-callback="enableSubmitButton"></div>
-            <div class="not">
-                Not:  <a href="https://www.roblox.com/groups/16982915" target="_blank" class="custom-link">Creative Studios</a> grubuna katılmak şart.
-            </div>
-            
-            <button type="submit" id="submitButton" disabled>Gönder</button>
-        </form>
-        <div class="result-message" id="result"></div>
-        <div class="error-message" id="message"></div>
-        <div class="attribution">
-            Bu site <a href="https://www.roblox.com/users/2688437972/profile" target="_blank">okis</a> tarafından yapılmıştır.
-        </div>
-    </div>
 
-    <script>
-         function checkMessage() {
-            var messageElement = document.getElementById('message');
-            var messageText = messageElement.textContent.trim();
-            
-            if (messageText !== "") {
-                window.location.href = 'https://redeem.creativestudioss.online';
-            }
-        }
-        
-        // Belirli aralıklarla mesajı kontrol et
-        var intervalId = setInterval(checkMessage,3000); // Her 5 saniyede bir kontrol et
-        var isSubmitting = false;
+    <header>
+        <h1>dvtfl.xyz</h1>
+    </header>
 
-        function enableSubmitButton() {
-            if (!isSubmitting) {
-                document.getElementById("submitButton").disabled = false;
-            }
-        }
-        function handleFormSubmit() {
-            if (!isSubmitting) {
-                isSubmitting = true;
-                document.getElementById("submitButton").disabled = true;
-                return true; 
-            } else {
-                return false; 
-            }
-        }
-    </script>
+    <nav>
+        <a href="https://url.dvtfl.xyz">URL Kısaltıcı</a> |
+        <a href="https://fastimg.dvtfl.xyz">Resim Paylaşma</a>
+    </nav>
+
+    <center>
+        <h1>Hayatınızı kolaylaştıran basit projeler :)</h1>
+        <p>Herkese selam! Ben Okan, lise 2. sınıf öğrencisiyim. İşlerimi kolaylaştırmak ve kendimi geliştirmek için bu siteyi yaptım. Umarım siz de yararlanırsınız.</p>
+    </center>
+
 </body>
 </html>
