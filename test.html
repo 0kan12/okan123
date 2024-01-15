@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FastIMG - ZIP İçeriği</title>
+    <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        #downloadButton {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: #fff;
+            text-decoration: none;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        #fileList {
+            margin-top: 20px;
+            text-align: left;
+        }
+
+        #fileList ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        #fileList li {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>ZIP Dosyasının İçeriği</h2>
+
+    <div id="fileList"></div>
+
+    <footer style="position: fixed; bottom: 0; right: 0; background: #f1f1f1; padding: 10px;">
+        <div>Okan tarafından yapıldı.</div>
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.5/jszip.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var pathname = window.location.pathname;
+            var kisaltilmisBlobId = pathname.split('/').pop();
+            var apiUrl = `https://jsonblob.com/api/jsonBlob/${kisaltilmisBlobId}`;
+            
+            fetch(apiUrl)
+            .then(response => {
+                if (response.ok) {
+                    return response.json();
+                } else {
+                    throw new Error('Hata: ' + response.statusText);
+                }
+            })
+            .then(data => {
+                var base64Content = data.content;
+
+                JSZip.loadAsync(base64Content, { base64: true })
+                    .then(function(zip) {
+                        var fileList = document.getElementById('fileList');
+                        var ul = document.createElement('ul');
+
+                        zip.forEach(function (relativePath, zipEntry) {
+                            var li = document.createElement('li');
+                            li.textContent = relativePath;
+                            ul.appendChild(li);
+                        });
+
+                        fileList.appendChild(ul);
+                    })
+                    .catch(function(error) {
+                        console.error("Hata:", error);
+                    });
+            })
+            .catch(error => {
+                console.error("Hata:", error);
+            });
+        });
+    </script>
+
+</body>
+</html>
