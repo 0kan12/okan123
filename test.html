@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebSocket JSON Chat</title>
+</head>
+<body>
+    <div>
+        <h1>WebSocket JSON Chat</h1>
+        <div>
+            <ul id="chat"></ul>
+        </div>
+        <div>
+            <input type="text" id="messageInput" placeholder="Mesajınızı yazın">
+            <button onclick="sendMessage()">Gönder</button>
+        </div>
+    </div>
+
+    <script>
+        const socket = new WebSocket('ws://localhost:3000');
+        const chatElement = document.getElementById('chat');
+
+        socket.onopen = () => {
+            console.log('WebSocket bağlantısı kuruldu.');
+        };
+
+        socket.onmessage = (event) => {
+            try {
+                const data = JSON.parse(event.data);
+                const message = document.createElement('li');
+                message.textContent = `${data.username}: ${data.message}`;
+                chatElement.appendChild(message);
+            } catch (error) {
+                console.error('Hata:', error);
+            }
+        };
+
+        function sendMessage() {
+            const messageInput = document.getElementById('messageInput');
+            const message = messageInput.value;
+
+            if (message.trim() !== '') {
+                if (socket.readyState === WebSocket.OPEN) {
+                    const data = {
+                        username: 'Ben',
+                        message: message
+                    };
+
+                    socket.send(JSON.stringify(data));
+                    messageInput.value = '';
+                } else {
+                    console.error('WebSocket bağlantısı henüz hazır değil.');
+                }
+            }
+        }
+    </script>
+</body>
+</html>
