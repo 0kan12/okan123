@@ -1,150 +1,174 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <title>Anasayfa</title>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4907581807662606"
-     crossorigin="anonymous"></script>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-image: linear-gradient(rgba(0, 0, 0, 0.1) 1px, transparent 1px),
-                              linear-gradient(90deg, rgba(0, 0, 0, 0.1) 1px, transparent 1px);
-            background-size: 20px 20px;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-
-        header {
-            background-color: #333;
-            padding: 20px;
-            text-align: center;
-            color: #fff;
-        }
-
-        header h1 {
-            margin: 0;
-            font-size: 36px;
-        }
-
-        nav {
-            background-color: #eee;
-            padding: 10px;
-            text-align: center;
-        }
-
-        nav a {
-            text-decoration: none;
-            color: #555;
-            margin: 0 15px;
-            font-weight: bold;
-            font-size: 16px;
-            transition: color 0.3s ease;
-        }
-
-        nav a:hover {
-            color: #333;
-        }
-
-        form {
-            max-width: 600px;
-            margin: 20px auto;
-            padding: 20px;
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-
-        label {
-            display: block;
-            margin-bottom: 10px;
-            font-weight: bold;
-            color: #555;
-        }
-
-        input {
-            width: 100%;
-            padding: 12px;
-            margin-bottom: 15px;
-            box-sizing: border-box;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-            font-size: 16px;
-        }
-
-        button {
-            background-color: #4CAF50;
-            color: #fff;
-            border: none;
-            padding: 12px 24px;
-            text-align: center;
-            text-decoration: none;
-            display: inline-block;
-            font-size: 18px;
-            border-radius: 5px;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
-        }
-
-        button:hover {
-            background-color: #45a049;
-        }
-
-        center {
-            display: block;
-            text-align: center;
-            margin: 20px 0;
-        }
-
-        p {
-            font-size: 18px;
-            color: #555;
-        }
-        #soz{
-            color: #fff;
-        }
-    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Okan'ın Portföyü</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
+<style>
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1) 1px, transparent 1px),
+                      linear-gradient(90deg, rgba(0, 0, 0, 0.1) 1px, transparent 1px);
+    background-size: 20px 20px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+nav {
+    background-color: #eee;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: #555;
+    margin: 0 15px;
+    font-weight: bold;
+    font-size: 16px;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #333;
+}
+
+.project-section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.project-section h2 {
+    color: #333;
+}
+
+.project-section p {
+    font-size: 16px;
+    color: #555;
+}
+
+.project-section a {
+    display: block;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.project-section a:hover {
+    background-color: #45a049;
+}
+
+#about-me {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#about-me h1,
+#about-me h4 {
+    color: #333;
+}
+
+#about-me p {
+    font-size: 18px;
+    color: #555;
+}
+
+#about-me a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+#about-me a:hover {
+    background-color: #45a049;
+}
+
+#soz {
+    color: #fff;
+}
+
+</style>
+
 <body>
 
     <header>
-        <h1>dvtfl.xyz</h1>
+        <h1>Okan'ın Portföyü</h1>
         <p id="soz" id="quoteText">-</p>
     </header>
 
     <nav>
-        <a target="_blank" href="https://url.dvtfl.xyz">URL Kısaltıcı</a> 
-        <a target="_blank" href="https://fastimg.dvtfl.xyz">Resim Paylaşma</a> 
-        <a target="_blank" href="https://sharefile.dvtfl.xyz">Dosya Paylaşımı (Zip)</a>
-        <a target="_blank" href="https://qrgen.dvtfl.xyz">QrCode oluşturucu</a>
+        <a href="#url-kisaltici">URL Kısaltıcı</a>
+        <a href="#resim-paylasma">Resim Paylaşma</a>
+        <a href="#dosya-paylasimi">Dosya Paylaşımı (Zip)</a>
+        <a href="#qrcode-olusturucu">QrCode Oluşturucu</a>
     </nav>
-    <center>
-        <h1>Merhaba!</h1>
-        <p>Ben Okan,basit web-toolslar yapıyorum hala geliştiriyorum üstten yaptığım projelere ulaşabilirsin önerilerin için bana yazabilirsin discord: desreverr</p>
-        <h4>Projelerimden yararlanabilirsiniz hepsi açık kaynaklıdır :) (lütfen siteye zarar verecek şeyler yapmayınız! bu sitenin tek amacı insanların bu siteden yararlanmasıdır)</h4>
-        <a target="_blank" href="https://discord.gg/pWNpZUZy2Q">Discord sunucum</a>
-    </center>
-    <script>
-        function getRandomQuote() {
-            var txtDosyaYolu = 'sozler.txt';
 
-            var xhr = new XMLHttpRequest();
-            xhr.onreadystatechange = function() {
-                if (xhr.readyState === 4 && xhr.status === 200) {
-                    var sozler = xhr.responseText.split('\n');
-                    var randomIndex = Math.floor(Math.random() * sozler.length);
-                    var randomSoz = sozler[randomIndex];
+    <section id="url-kisaltici" class="project-section">
+        <h2>URL Kısaltıcı</h2>
+        <p>Nasıl çalışır? kullanıcıdan bir key ve yönlendirmesi için bir link istenir eğer o keye ait bir link tanımlanmamışsa link o keye atanır ve jsonblobda depolanır url.dvtfl.xyz/key linkine gidildiğinde eğer key tanımlı ise tanımlı olduğu linke tanımsız ise varsayılan linke yönlendilir</p>
+        <a target="_blank" href="https://github.com/0kan12/urlshorter">Kaynak kodları için tıklayın</a>
+    </section>
 
-                    document.getElementById('soz').innerText = randomSoz;
-                }
-            };
-            xhr.open('GET', txtDosyaYolu, true);
-            xhr.send();
-        }
-        document.addEventListener('DOMContentLoaded', getRandomQuote);
-    </script>
+    <section id="resim-paylasma" class="project-section">
+        <h2>Resim Paylaşma</h2>
+        <p>Küçük ve anlık resimlerinizi 7/24 paylaşabileceğiniz bir platformdur kullanıcıdan sadece jpg/png/jpeg uzantılarını kabul eder ve yüklendikten sonra size özel link oluşturulur örnek link fastimg.dvtfl.xtz/xxxx route 4 haneli oldukça kısadır linke tıklanılınca eğer tanımlanamamış bir route değilse resim gösterilir </p>
+        <a target="_blank" href="https://github.com/0kan12/fastimg">Kaynak kodları için tıklayın</a>
+    </section>
+
+    <section id="dosya-paylasimi" class="project-section">
+        <h2>Dosya Paylaşımı (Zip)</h2>
+        <p>Sadece .zip tipi dosyaları kabul eder burdaki amaç daha çok kişiye hizmet vermek ve daha hızlı bir sistem yapmaktır dosyanız yüklenilince size link verilir linke tıkladığınızda indirme linkini altında .zip içindeki klasörleri gösterir ve dosyaları isterseniz online da görebilirsiniz</p>
+        <a target="_blank" href="https://github.com/0kan12/fileshare">Kaynak kodları için tıklayın</a>
+    </section>
+
+    <section id="qrcode-olusturucu" class="project-section">
+        <h2>QrCode Oluşturucu</h2>
+        <p>basit bir mantığı vardır ister inputtan url yi girebilirsiniz istersenizde args olarak gönderebilirsiniz ?data= şeklinde</p>
+        <a target="_blank" href="https://github.com/0kan12/qrgen">Kaynak kodları için tıklayın</a>
+    </section>
+
+    <section id="about-me">
+        <center>
+            <h1>Merhaba!</h1>
+            <p>Ben Okan, basit web araçları geliştiriyorum ve sürekli olarak kendimi geliştiriyorum. Yukarıdaki projelerime göz atabilir ve önerilerinizi bana iletebilirsiniz. Discord: desreverr</p>
+            <h4>Projelerimden yararlanabilirsiniz, hepsi açık kaynaklıdır. Lütfen siteye zarar verecek şeyler yapmaktan kaçının; bu site, insanların bu araçlardan yararlanmasını amaçlamaktadır.</h4>
+            <a target="_blank" href="https://discord.gg/pWNpZUZy2Q">Discord Sunucum</a>
+        </center>
+    </section>
+
+    <script src="script.js"></script>
 </body>
+
 </html>
