@@ -15,3 +15,10 @@ function getRandomQuote() {
     xhr.send();
 }
 document.addEventListener('DOMContentLoaded', getRandomQuote);
+document.addEventListener('visibilitychange', function() {
+    if (document.visibilityState === 'hidden') {
+        document.title = "Gitme :(";
+    } else {
+        document.title = "Selam ben Okan";
+    }
+});
