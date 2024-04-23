@@ -1,0 +1,2 @@
+function e(t,a){return{bodyClassName:"framer-body-oyfaceQjQ",breakpoints:[{hash:"pq2wdl"}],description:"hello",elements:{},framerSearch:{index:!0},socialImage:"https://framerusercontent.com/assets/Lk1TVZSv1mI4OidcCDZtNvhDk.png",title:"Creative Studi\u0131s",viewport:"width=1200"}}var s=1,i={exports:{metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},default:{type:"function",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{e as a,s as b,i as c};
+//# sourceMappingURL=chunk-PYPUMWYM.mjs.map
