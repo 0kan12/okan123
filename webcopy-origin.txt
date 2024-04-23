@@ -1,505 +1,505 @@
 Uri: https://app.framerstatic.com/Inter-Black.cyrillic-ext-TU4ITVTR.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Black.cyrillic-ext-TU4ITVTR-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Black.cyrillic-ext-TU4ITVTR.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Black.cyrillic-JX7CGTYD.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Black.cyrillic-JX7CGTYD-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Black.cyrillic-JX7CGTYD.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Black.greek-ext-LS3GCBFI.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Black.greek-ext-LS3GCBFI-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Black.greek-ext-LS3GCBFI.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Black.greek-ZWCJHBP5.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Black.greek-ZWCJHBP5-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Black.greek-ZWCJHBP5.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Black.latin-ext-BZLEUMX6.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Black.latin-ext-BZLEUMX6-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Black.latin-ext-BZLEUMX6.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Black.latin-TETRYDF7.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Black.latin-TETRYDF7-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Black.latin-TETRYDF7.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Black.vietnamese-RXQCC3EJ.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Black.vietnamese-RXQCC3EJ-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Black.vietnamese-RXQCC3EJ.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-BlackItalic.cyrillic-ext-TRM4ITYR.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BlackItalic.cyrillic-ext-TRM4ITYR-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BlackItalic.cyrillic-ext-TRM4ITYR.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-BlackItalic.cyrillic-FPHIQVZS.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BlackItalic.cyrillic-FPHIQVZS-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BlackItalic.cyrillic-FPHIQVZS.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-BlackItalic.greek-ext-JTGUUSP5.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BlackItalic.greek-ext-JTGUUSP5-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BlackItalic.greek-ext-JTGUUSP5.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-BlackItalic.greek-LUNA3RFO.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BlackItalic.greek-LUNA3RFO-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BlackItalic.greek-LUNA3RFO.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-BlackItalic.latin-ext-KU7ICFYH.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BlackItalic.latin-ext-KU7ICFYH-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BlackItalic.latin-ext-KU7ICFYH.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-BlackItalic.latin-FRVXWQSB.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BlackItalic.latin-FRVXWQSB-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BlackItalic.latin-FRVXWQSB.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-BlackItalic.vietnamese-2Q7MQKJX.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BlackItalic.vietnamese-2Q7MQKJX-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BlackItalic.vietnamese-2Q7MQKJX.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Bold.cyrillic-6LOMBC2V.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Bold.cyrillic-6LOMBC2V-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Bold.cyrillic-6LOMBC2V.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Bold.cyrillic-ext-XOTVL7ZR.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Bold.cyrillic-ext-XOTVL7ZR-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Bold.cyrillic-ext-XOTVL7ZR.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Bold.greek-ext-WXWSJXLB.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Bold.greek-ext-WXWSJXLB-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Bold.greek-ext-WXWSJXLB.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Bold.greek-YRST7ODZ.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Bold.greek-YRST7ODZ-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Bold.greek-YRST7ODZ.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Bold.latin-ext-BASA5UL3.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Bold.latin-ext-BASA5UL3-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Bold.latin-ext-BASA5UL3.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Bold.latin-UCM45LQF.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Bold.latin-UCM45LQF-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Bold.latin-UCM45LQF.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Bold.vietnamese-OEVJMXEP.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Bold.vietnamese-OEVJMXEP-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Bold.vietnamese-OEVJMXEP.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-BoldItalic.cyrillic-7EIL6JWG.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BoldItalic.cyrillic-7EIL6JWG-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BoldItalic.cyrillic-7EIL6JWG.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-BoldItalic.cyrillic-ext-PEYDHC3S.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BoldItalic.cyrillic-ext-PEYDHC3S-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BoldItalic.cyrillic-ext-PEYDHC3S.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-BoldItalic.greek-ext-3DJOYQMH.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BoldItalic.greek-ext-3DJOYQMH-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BoldItalic.greek-ext-3DJOYQMH.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-BoldItalic.greek-TJBTLTT7.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BoldItalic.greek-TJBTLTT7-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BoldItalic.greek-TJBTLTT7.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-BoldItalic.latin-5ZFQS4XK.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BoldItalic.latin-5ZFQS4XK-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BoldItalic.latin-5ZFQS4XK.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-BoldItalic.latin-ext-FVPCPRBJ.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BoldItalic.latin-ext-FVPCPRBJ-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BoldItalic.latin-ext-FVPCPRBJ.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-BoldItalic.vietnamese-W2625PGF.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BoldItalic.vietnamese-W2625PGF-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-BoldItalic.vietnamese-W2625PGF.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraBold.cyrillic-ext-7Q6SVIPE.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBold.cyrillic-ext-7Q6SVIPE-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBold.cyrillic-ext-7Q6SVIPE.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraBold.cyrillic-JSLPE6KW.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBold.cyrillic-JSLPE6KW-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBold.cyrillic-JSLPE6KW.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraBold.greek-ext-6OYGJJV7.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBold.greek-ext-6OYGJJV7-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBold.greek-ext-6OYGJJV7.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraBold.greek-SHW2FPC4.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBold.greek-SHW2FPC4-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBold.greek-SHW2FPC4.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraBold.latin-ext-A5DUFOP6.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBold.latin-ext-A5DUFOP6-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBold.latin-ext-A5DUFOP6.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraBold.latin-OW4UGSRU.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBold.latin-OW4UGSRU-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBold.latin-OW4UGSRU.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraBold.vietnamese-IBBC7NGV.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBold.vietnamese-IBBC7NGV-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBold.vietnamese-IBBC7NGV.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraBoldItalic.cyrillic-ext-ACWDZ3VD.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBoldItalic.cyrillic-ext-ACWDZ3VD-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBoldItalic.cyrillic-ext-ACWDZ3VD.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraBoldItalic.cyrillic-ZKBSDAI2.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBoldItalic.cyrillic-ZKBSDAI2-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBoldItalic.cyrillic-ZKBSDAI2.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraBoldItalic.greek-ext-3CY5DPTP.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBoldItalic.greek-ext-3CY5DPTP-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBoldItalic.greek-ext-3CY5DPTP.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraBoldItalic.greek-YL5CC63W.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBoldItalic.greek-YL5CC63W-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBoldItalic.greek-YL5CC63W.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraBoldItalic.latin-ext-7IZFJI4D.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBoldItalic.latin-ext-7IZFJI4D-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBoldItalic.latin-ext-7IZFJI4D.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraBoldItalic.latin-O5HH4IX3.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBoldItalic.latin-O5HH4IX3-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBoldItalic.latin-O5HH4IX3.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraBoldItalic.vietnamese-UW3XUJOD.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBoldItalic.vietnamese-UW3XUJOD-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraBoldItalic.vietnamese-UW3XUJOD.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraLight.cyrillic-ext-7NWKXNAT.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLight.cyrillic-ext-7NWKXNAT-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLight.cyrillic-ext-7NWKXNAT.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraLight.cyrillic-IBWUD6RJ.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLight.cyrillic-IBWUD6RJ-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLight.cyrillic-IBWUD6RJ.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraLight.greek-ext-HUMDTRBU.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLight.greek-ext-HUMDTRBU-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLight.greek-ext-HUMDTRBU.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraLight.greek-ZLLHEEN3.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLight.greek-ZLLHEEN3-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLight.greek-ZLLHEEN3.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraLight.latin-2JHDAFAQ.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLight.latin-2JHDAFAQ-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLight.latin-2JHDAFAQ.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraLight.latin-ext-72JE5FGU.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLight.latin-ext-72JE5FGU-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLight.latin-ext-72JE5FGU.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraLight.vietnamese-VKRCA4VC.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLight.vietnamese-VKRCA4VC-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLight.vietnamese-VKRCA4VC.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraLightItalic.cyrillic-BRDZE5UH.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLightItalic.cyrillic-BRDZE5UH-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLightItalic.cyrillic-BRDZE5UH.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraLightItalic.cyrillic-ext-OVCHMVPD.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLightItalic.cyrillic-ext-OVCHMVPD-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLightItalic.cyrillic-ext-OVCHMVPD.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraLightItalic.greek-EJVCLASM.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLightItalic.greek-EJVCLASM-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLightItalic.greek-EJVCLASM.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraLightItalic.greek-ext-YV64YFFH.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLightItalic.greek-ext-YV64YFFH-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLightItalic.greek-ext-YV64YFFH.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraLightItalic.latin-ext-2MHTM56A.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLightItalic.latin-ext-2MHTM56A-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLightItalic.latin-ext-2MHTM56A.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraLightItalic.latin-JB3CJMMM.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLightItalic.latin-JB3CJMMM-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLightItalic.latin-JB3CJMMM.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ExtraLightItalic.vietnamese-3EJ3IQYS.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLightItalic.vietnamese-3EJ3IQYS-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ExtraLightItalic.vietnamese-3EJ3IQYS.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Italic.cyrillic-BFOVMAQB.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Italic.cyrillic-BFOVMAQB-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Italic.cyrillic-BFOVMAQB.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Italic.cyrillic-ext-YDGMJOJO.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Italic.cyrillic-ext-YDGMJOJO-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Italic.cyrillic-ext-YDGMJOJO.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Italic.greek-ext-4KOU3AHC.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Italic.greek-ext-4KOU3AHC-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Italic.greek-ext-4KOU3AHC.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Italic.greek-OJTBJNE6.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Italic.greek-OJTBJNE6-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Italic.greek-OJTBJNE6.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Italic.latin-2DWX32EN.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Italic.latin-2DWX32EN-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Italic.latin-2DWX32EN.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Italic.latin-ext-H4B22QN6.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Italic.latin-ext-H4B22QN6-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Italic.latin-ext-H4B22QN6.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Italic.vietnamese-TYMT6CKW.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Italic.vietnamese-TYMT6CKW-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Italic.vietnamese-TYMT6CKW.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Light.cyrillic-ext-G3OTPKE4.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Light.cyrillic-ext-G3OTPKE4-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Light.cyrillic-ext-G3OTPKE4.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Light.cyrillic-JO7ZJTP6.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Light.cyrillic-JO7ZJTP6-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Light.cyrillic-JO7ZJTP6.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Light.greek-5GVUXSXZ.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Light.greek-5GVUXSXZ-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Light.greek-5GVUXSXZ.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Light.greek-ext-N63XCCK3.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Light.greek-ext-N63XCCK3-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Light.greek-ext-N63XCCK3.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Light.latin-EKF76FXR.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Light.latin-EKF76FXR-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Light.latin-EKF76FXR.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Light.latin-ext-RREJIMQ3.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Light.latin-ext-RREJIMQ3-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Light.latin-ext-RREJIMQ3.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Light.vietnamese-GVC2UOFS.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Light.vietnamese-GVC2UOFS-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Light.vietnamese-GVC2UOFS.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-LightItalic.cyrillic-E7CYPW5D.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-LightItalic.cyrillic-E7CYPW5D-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-LightItalic.cyrillic-E7CYPW5D.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-LightItalic.cyrillic-ext-C2S5XS3D.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-LightItalic.cyrillic-ext-C2S5XS3D-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-LightItalic.cyrillic-ext-C2S5XS3D.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-LightItalic.greek-ext-ROSAFPGE.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-LightItalic.greek-ext-ROSAFPGE-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-LightItalic.greek-ext-ROSAFPGE.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-LightItalic.greek-PAWWH37Z.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-LightItalic.greek-PAWWH37Z-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-LightItalic.greek-PAWWH37Z.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-LightItalic.latin-ext-N2Z67Z45.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-LightItalic.latin-ext-N2Z67Z45-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-LightItalic.latin-ext-N2Z67Z45.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-LightItalic.latin-SLSTLWEU.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-LightItalic.latin-SLSTLWEU-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-LightItalic.latin-SLSTLWEU.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-LightItalic.vietnamese-RLGM2D3Y.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-LightItalic.vietnamese-RLGM2D3Y-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-LightItalic.vietnamese-RLGM2D3Y.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Medium.cyrillic-ext-M4WHNGTS.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Medium.cyrillic-ext-M4WHNGTS-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Medium.cyrillic-ext-M4WHNGTS.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Medium.cyrillic-JVU2PANX.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Medium.cyrillic-JVU2PANX-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Medium.cyrillic-JVU2PANX.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Medium.greek-DPOQGN7L.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Medium.greek-DPOQGN7L-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Medium.greek-DPOQGN7L.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Medium.greek-ext-4KCQBEIZ.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Medium.greek-ext-4KCQBEIZ-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Medium.greek-ext-4KCQBEIZ.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Medium.latin-ext-J4DBSW7F.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Medium.latin-ext-J4DBSW7F-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Medium.latin-ext-J4DBSW7F.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Medium.latin-Y3IVPL46.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Medium.latin-Y3IVPL46-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Medium.latin-Y3IVPL46.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Medium.vietnamese-PJV76O4P.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Medium.vietnamese-PJV76O4P-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Medium.vietnamese-PJV76O4P.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-MediumItalic.cyrillic-ext-QYBZQ2NF.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-MediumItalic.cyrillic-ext-QYBZQ2NF-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-MediumItalic.cyrillic-ext-QYBZQ2NF.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-MediumItalic.cyrillic-ZHAJHZCC.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-MediumItalic.cyrillic-ZHAJHZCC-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-MediumItalic.cyrillic-ZHAJHZCC.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-MediumItalic.greek-ext-W5ABYGZR.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-MediumItalic.greek-ext-W5ABYGZR-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-MediumItalic.greek-ext-W5ABYGZR.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-MediumItalic.greek-RGNSYVNV.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-MediumItalic.greek-RGNSYVNV-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-MediumItalic.greek-RGNSYVNV.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-MediumItalic.latin-ext-7DZEPSAS.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-MediumItalic.latin-ext-7DZEPSAS-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-MediumItalic.latin-ext-7DZEPSAS.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-MediumItalic.latin-SKPQAMBJ.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-MediumItalic.latin-SKPQAMBJ-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-MediumItalic.latin-SKPQAMBJ.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-MediumItalic.vietnamese-23WIFZV7.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-MediumItalic.vietnamese-23WIFZV7-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-MediumItalic.vietnamese-23WIFZV7.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Regular.cyrillic-ext-CFTLRB35.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Regular.cyrillic-ext-CFTLRB35-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Regular.cyrillic-ext-CFTLRB35.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Regular.cyrillic-KKLZBALH.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Regular.cyrillic-KKLZBALH-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Regular.cyrillic-KKLZBALH.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Regular.greek-ext-ULEBLIFV.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Regular.greek-ext-ULEBLIFV-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Regular.greek-ext-ULEBLIFV.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Regular.greek-IRHSNFQB.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Regular.greek-IRHSNFQB-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Regular.greek-IRHSNFQB.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Regular.latin-ext-VZDUGU3Q.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Regular.latin-ext-VZDUGU3Q-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Regular.latin-ext-VZDUGU3Q.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Regular.latin-JLQMKCHE.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Regular.latin-JLQMKCHE-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Regular.latin-JLQMKCHE.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Regular.vietnamese-QK7VSWXK.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Regular.vietnamese-QK7VSWXK-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Regular.vietnamese-QK7VSWXK.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-SemiBold.cyrillic-ext-C7KWUKA7.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBold.cyrillic-ext-C7KWUKA7-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBold.cyrillic-ext-C7KWUKA7.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-SemiBold.cyrillic-JWV7SOZ6.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBold.cyrillic-JWV7SOZ6-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBold.cyrillic-JWV7SOZ6.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-SemiBold.greek-EQ3PSENU.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBold.greek-EQ3PSENU-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBold.greek-EQ3PSENU.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-SemiBold.greek-ext-FBKSFTSU.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBold.greek-ext-FBKSFTSU-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBold.greek-ext-FBKSFTSU.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-SemiBold.latin-ext-ULRSO3ZR.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBold.latin-ext-ULRSO3ZR-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBold.latin-ext-ULRSO3ZR.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-SemiBold.latin-RDYY2AG2.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBold.latin-RDYY2AG2-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBold.latin-RDYY2AG2.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-SemiBold.vietnamese-ESQNSEQ3.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBold.vietnamese-ESQNSEQ3-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBold.vietnamese-ESQNSEQ3.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-SemiBoldItalic.cyrillic-ext-MEHHCDC3.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBoldItalic.cyrillic-ext-MEHHCDC3-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBoldItalic.cyrillic-ext-MEHHCDC3.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-SemiBoldItalic.cyrillic-YACNRNDE.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBoldItalic.cyrillic-YACNRNDE-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBoldItalic.cyrillic-YACNRNDE.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-SemiBoldItalic.greek-5W77OPRT.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBoldItalic.greek-5W77OPRT-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBoldItalic.greek-5W77OPRT.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-SemiBoldItalic.greek-ext-GFL7KADI.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBoldItalic.greek-ext-GFL7KADI-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBoldItalic.greek-ext-GFL7KADI.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-SemiBoldItalic.latin-ext-OYJJ2W6R.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBoldItalic.latin-ext-OYJJ2W6R-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBoldItalic.latin-ext-OYJJ2W6R.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-SemiBoldItalic.latin-KBLJMBDH.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBoldItalic.latin-KBLJMBDH-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBoldItalic.latin-KBLJMBDH.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-SemiBoldItalic.vietnamese-5ZFOV65G.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBoldItalic.vietnamese-5ZFOV65G-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-SemiBoldItalic.vietnamese-5ZFOV65G.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Thin.cyrillic-ext-BHDA65O4.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Thin.cyrillic-ext-BHDA65O4-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Thin.cyrillic-ext-BHDA65O4.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Thin.cyrillic-Q5IXHU2O.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Thin.cyrillic-Q5IXHU2O-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Thin.cyrillic-Q5IXHU2O.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Thin.greek-E3WNEUH6.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Thin.greek-E3WNEUH6-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Thin.greek-E3WNEUH6.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Thin.greek-ext-VVOQA2NE.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Thin.greek-ext-VVOQA2NE-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Thin.greek-ext-VVOQA2NE.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Thin.latin-ext-5RC4NRHN.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Thin.latin-ext-5RC4NRHN-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Thin.latin-ext-5RC4NRHN.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Thin.latin-GJ7CRGHG.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Thin.latin-GJ7CRGHG-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Thin.latin-GJ7CRGHG.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-Thin.vietnamese-Z3Y7DPWO.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Thin.vietnamese-Z3Y7DPWO-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-Thin.vietnamese-Z3Y7DPWO.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ThinItalic.cyrillic-ext-2RGKWUBV.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ThinItalic.cyrillic-ext-2RGKWUBV-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ThinItalic.cyrillic-ext-2RGKWUBV.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ThinItalic.cyrillic-TDYIP5HV.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ThinItalic.cyrillic-TDYIP5HV-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ThinItalic.cyrillic-TDYIP5HV.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ThinItalic.greek-ext-WR4TIDYZ.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ThinItalic.greek-ext-WR4TIDYZ-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ThinItalic.greek-ext-WR4TIDYZ.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ThinItalic.greek-V3WZMSP7.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ThinItalic.greek-V3WZMSP7-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ThinItalic.greek-V3WZMSP7.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ThinItalic.latin-ext-TXFTJONQ.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ThinItalic.latin-ext-TXFTJONQ-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ThinItalic.latin-ext-TXFTJONQ.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ThinItalic.latin-RVEBKP6O.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ThinItalic.latin-RVEBKP6O-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ThinItalic.latin-RVEBKP6O.woff2
 Content Type: font/woff2
 
 Uri: https://app.framerstatic.com/Inter-ThinItalic.vietnamese-WCBPP4MD.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ThinItalic.vietnamese-WCBPP4MD-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\Inter-ThinItalic.vietnamese-WCBPP4MD.woff2
 Content Type: font/woff2
 
 Uri: https://creativestudios.framer.website/404
@@ -511,15 +511,15 @@ File Name: C:\Downloaded Web Sites\creativestudios.framer.website\script
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/images/aVGhLHqpdOKuuyRiu68aVLRLL2k.png
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\images\aVGhLHqpdOKuuyRiu68aVLRLL2k-3.png
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\images\aVGhLHqpdOKuuyRiu68aVLRLL2k.png
 Content Type: image/png
 
 Uri: https://framerusercontent.com/images/aVGhLHqpdOKuuyRiu68aVLRLL2k.png?scale-down-to=1024
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\images\aVGhLHqpdOKuuyRiu68aVLRLL2k-5.png
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\images\aVGhLHqpdOKuuyRiu68aVLRLL2k-2.png
 Content Type: image/png
 
 Uri: https://framerusercontent.com/images/aVGhLHqpdOKuuyRiu68aVLRLL2k.png?scale-down-to=512
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\images\aVGhLHqpdOKuuyRiu68aVLRLL2k-4.png
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\images\aVGhLHqpdOKuuyRiu68aVLRLL2k-1.png
 Content Type: image/png
 
 Uri: https://framerusercontent.com/images/kKltvqeoXSVKnc1KWOkxuZx4VI.png
@@ -535,7 +535,7 @@ File Name: C:\Downloaded Web Sites\creativestudios.framer.website\images\kKltvqe
 Content Type: image/png
 
 Uri: https://framerusercontent.com/images/Lk1TVZSv1mI4OidcCDZtNvhDk.png
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\images\Lk1TVZSv1mI4OidcCDZtNvhDk-1.png
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\images\Lk1TVZSv1mI4OidcCDZtNvhDk.png
 Content Type: image/png
 
 Uri: https://framerusercontent.com/images/tB4sZllT0CUA8PIXYSHGQox5E.png
@@ -563,27 +563,27 @@ File Name: C:\Downloaded Web Sites\creativestudios.framer.website\images\ziX3xXW
 Content Type: image/png
 
 Uri: https://framerusercontent.com/sites/4IAJHTM0IdVz6g6YY2Bo52/chunk-42U43NKG.mjs
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-42U43NKG-1.mjs
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-42U43NKG.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/4IAJHTM0IdVz6g6YY2Bo52/chunk-5CXOIMO7.mjs
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-5CXOIMO7-1.mjs
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-5CXOIMO7.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/4IAJHTM0IdVz6g6YY2Bo52/chunk-BKVKSWLL.mjs
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-BKVKSWLL-1.mjs
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-BKVKSWLL.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/4IAJHTM0IdVz6g6YY2Bo52/chunk-C7FVEFAT.mjs
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-C7FVEFAT-1.mjs
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-C7FVEFAT.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/4IAJHTM0IdVz6g6YY2Bo52/chunk-EDPPJER4.mjs
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-EDPPJER4-1.mjs
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-EDPPJER4.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/4IAJHTM0IdVz6g6YY2Bo52/chunk-ELYU6EKT.mjs
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-ELYU6EKT-1.mjs
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-ELYU6EKT.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/4IAJHTM0IdVz6g6YY2Bo52/chunk-FHKZDMBQ.mjs
@@ -591,7 +591,7 @@ File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/4IAJHTM0IdVz6g6YY2Bo52/chunk-HUVZHYGP.mjs
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-HUVZHYGP-1.mjs
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-HUVZHYGP.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/4IAJHTM0IdVz6g6YY2Bo52/chunk-KVYYEB2B.mjs
@@ -599,23 +599,23 @@ File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/4IAJHTM0IdVz6g6YY2Bo52/chunk-NJKXAVWL.mjs
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-NJKXAVWL-1.mjs
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-NJKXAVWL.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/4IAJHTM0IdVz6g6YY2Bo52/chunk-QOY6AHGO.mjs
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-QOY6AHGO-1.mjs
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-QOY6AHGO.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/4IAJHTM0IdVz6g6YY2Bo52/chunk-QQRYTALF.mjs
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-QQRYTALF-1.mjs
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-QQRYTALF.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/4IAJHTM0IdVz6g6YY2Bo52/chunk-YV6XOAKE.mjs
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-YV6XOAKE-1.mjs
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\chunk-YV6XOAKE.mjs
 Content Type: text/javascript
 
-Uri: https://framerusercontent.com/sites/4IAJHTM0IdVz6g6YY2Bo52/default_script0.O3DFS5PV.mjs
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\default_script0.O3DFS5PV-1.mjs
+Uri: https://framerusercontent.com/sites/4IAJHTM0IdVz6g6YY2Bo52/default_script0.7KLCH4DJ.mjs
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\default_script0.7KLCH4DJ.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/4IAJHTM0IdVz6g6YY2Bo52/i3n0TGx4FTbm9ypK_Obk-uUHu9pJozdN2RKFQz_MeNY.VLO3LJXY.mjs
@@ -623,74 +623,22 @@ File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/2T24MWUOKZU65SZJ33GPRGNOKE4KPOBX/T6LIXZJIPB23UDPMTIKURYWSZLXZBJ3A/THF5L6EHVL4N4NNE3GYDZNZSHABL5CH5.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\2T24MWUOKZU65SZJ33GPRGNOKE4KPOBX\T6LIXZJIPB23UDPMTIKURYWSZLXZBJ3A\THF5L6EHVL4N4NNE3GYDZNZSHABL5CH5-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\2T24MWUOKZU65SZJ33GPRGNOKE4KPOBX\T6LIXZJIPB23UDPMTIKURYWSZLXZBJ3A\THF5L6EHVL4N4NNE3GYDZNZSHABL5CH5.woff2
 Content Type: application/octet-stream
 
 Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/2UC2M25RQ2XRSGCBJRQ2G5SNXCROECQB/QJT3T33NN372363FJY5EO5D63GKDKLDK/IOAFMDAPNX3S6OL2GYQQJ2FFJIRSVB3N.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\2UC2M25RQ2XRSGCBJRQ2G5SNXCROECQB\QJT3T33NN372363FJY5EO5D63GKDKLDK\IOAFMDAPNX3S6OL2GYQQJ2FFJIRSVB3N-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\2UC2M25RQ2XRSGCBJRQ2G5SNXCROECQB\QJT3T33NN372363FJY5EO5D63GKDKLDK\IOAFMDAPNX3S6OL2GYQQJ2FFJIRSVB3N.woff2
 Content Type: application/octet-stream
 
 Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/47WQXPVBB5FZSBSKG7EM3GTGOVFM5BBT/ODED7M7ROA7KYKTD3MYSN4KKO6JVXBQE/EE3DYKUPHF3W5SWXFO53CRP5KMNTTNTH.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\47WQXPVBB5FZSBSKG7EM3GTGOVFM5BBT\ODED7M7ROA7KYKTD3MYSN4KKO6JVXBQE\EE3DYKUPHF3W5SWXFO53CRP5KMNTTNTH-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\47WQXPVBB5FZSBSKG7EM3GTGOVFM5BBT\ODED7M7ROA7KYKTD3MYSN4KKO6JVXBQE\EE3DYKUPHF3W5SWXFO53CRP5KMNTTNTH.woff2
 Content Type: application/octet-stream
 
 Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/5SZVFDB7V52TI6ULVC6J3WQZQCIZVDV5/ODYPSTCUDMKSTYIPTV4CLQ7URIK7XYBJ/YS3VPNVO4B3TOJMEXDGFZQ4TLZGGSRZC.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\5SZVFDB7V52TI6ULVC6J3WQZQCIZVDV5\ODYPSTCUDMKSTYIPTV4CLQ7URIK7XYBJ\YS3VPNVO4B3TOJMEXDGFZQ4TLZGGSRZC-1.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\5SZVFDB7V52TI6ULVC6J3WQZQCIZVDV5\ODYPSTCUDMKSTYIPTV4CLQ7URIK7XYBJ\YS3VPNVO4B3TOJMEXDGFZQ4TLZGGSRZC.woff2
 Content Type: application/octet-stream
 
 Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/A54N3N7J5AY6YOPYJKLHF5VH7G7HSSUN/ERWIWIB434FMFHQFSSBD233EP3C62HOI/TOHQHMLIEIPKVF2JPM6SVKXFYGO5G2TJ.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\A54N3N7J5AY6YOPYJKLHF5VH7G7HSSUN\ERWIWIB434FMFHQFSSBD233EP3C62HOI\TOHQHMLIEIPKVF2JPM6SVKXFYGO5G2TJ-1.woff2
-Content Type: application/octet-stream
-
-Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/CDEBEFT2R7XKNGXSBBLZGMY4MMHZG75P/HEVKDGQCYDZ7Z6CDVR2ZQGBCTUD6ZARH/BKWEE3VKGTFABE37K2DTH625VUSN2N35.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\CDEBEFT2R7XKNGXSBBLZGMY4MMHZG75P\HEVKDGQCYDZ7Z6CDVR2ZQGBCTUD6ZARH\BKWEE3VKGTFABE37K2DTH625VUSN2N35-1.woff2
-Content Type: application/octet-stream
-
-Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/FQHNKZEV35SAMFWVFCFSORJXUNHNILL4/X4YCR4COAQTK5XB6JCDDBS7Q33AQWUAE/J7XVDQ2IJENINPUAVBDJNH3VEXVDSPQQ.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\FQHNKZEV35SAMFWVFCFSORJXUNHNILL4\X4YCR4COAQTK5XB6JCDDBS7Q33AQWUAE\J7XVDQ2IJENINPUAVBDJNH3VEXVDSPQQ-1.woff2
-Content Type: application/octet-stream
-
-Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/HBNTRIISA5MEXGL5WPYI7CV2HIWTDV3Q/YDPDINVT673XLXNSTMLG4JNCZZMVVNPN/Y7SCNZJOT2MW5ADSGOFLDGH4TNL4JCQY.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\HBNTRIISA5MEXGL5WPYI7CV2HIWTDV3Q\YDPDINVT673XLXNSTMLG4JNCZZMVVNPN\Y7SCNZJOT2MW5ADSGOFLDGH4TNL4JCQY-1.woff2
-Content Type: application/octet-stream
-
-Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI/PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD/GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI\PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD\GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR-1.woff2
-Content Type: application/octet-stream
-
-Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/LVPXCMXCWY3V7PSXRMGRQUJDAS2DT47E/BPEVRT2HG7PPVVUS7A67MZQQZW6LR6A5/A7AS3UPAGLC7MDVC67SBNTE5FGF2Z2RG.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\LVPXCMXCWY3V7PSXRMGRQUJDAS2DT47E\BPEVRT2HG7PPVVUS7A67MZQQZW6LR6A5\A7AS3UPAGLC7MDVC67SBNTE5FGF2Z2RG-1.woff2
-Content Type: application/octet-stream
-
-Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/MPIFA4B3XXRNY2MJDGP6GOOOAF6EOCLO/W5E4ZFYPJ3V6JKMBGHB6YMITK6EWS2XA/QOMBWPST76ICDYF6WOBS7SQ7RBT67QW2.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\MPIFA4B3XXRNY2MJDGP6GOOOAF6EOCLO\W5E4ZFYPJ3V6JKMBGHB6YMITK6EWS2XA\QOMBWPST76ICDYF6WOBS7SQ7RBT67QW2-1.woff2
-Content Type: application/octet-stream
-
-Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/NID3I7RITWZSKXRCJGOCMP5NOADJK6IG/2HLHGD7OBTWCOHW64YXOE5KFXHU4KJHM/ZHME2QIRFR7UPJ47NLY27RCAFY44CKZJ.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\NID3I7RITWZSKXRCJGOCMP5NOADJK6IG\2HLHGD7OBTWCOHW64YXOE5KFXHU4KJHM\ZHME2QIRFR7UPJ47NLY27RCAFY44CKZJ-1.woff2
-Content Type: application/octet-stream
-
-Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/OYB4CXKJQXKTNSLJMTDQOIVUL2V5EL7S/WYO2P7DQVV5RNXGMCUO2HL4RJP4VFUAS/6XPIMU23OJVRY676OG5YVJMWEHWICATX.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\OYB4CXKJQXKTNSLJMTDQOIVUL2V5EL7S\WYO2P7DQVV5RNXGMCUO2HL4RJP4VFUAS\6XPIMU23OJVRY676OG5YVJMWEHWICATX-1.woff2
-Content Type: application/octet-stream
-
-Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA/ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB/7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA\ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB\7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP-1.woff2
-Content Type: application/octet-stream
-
-Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/QMRBNVYKDJEZ66DA22SPWH5EVVYACHCU/ZHMXHHA546NDNEHJN5RPZX5KISJY5CWF/C6VLICDGQWYKV6YT65TM5G3OVN4AOZBN.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\QMRBNVYKDJEZ66DA22SPWH5EVVYACHCU\ZHMXHHA546NDNEHJN5RPZX5KISJY5CWF\C6VLICDGQWYKV6YT65TM5G3OVN4AOZBN-1.woff2
-Content Type: application/octet-stream
-
-Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/TTX2Z3BF3P6Y5BQT3IV2VNOK6FL22KUT/7QYRJOI3JIMYHGY6CH7SOIFRQLZOLNJ6/KFIAZD4RUMEZIYV6FQ3T3GP5PDBDB6JY.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\TTX2Z3BF3P6Y5BQT3IV2VNOK6FL22KUT\7QYRJOI3JIMYHGY6CH7SOIFRQLZOLNJ6\KFIAZD4RUMEZIYV6FQ3T3GP5PDBDB6JY-1.woff2
-Content Type: application/octet-stream
-
-Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/UM553GIXLG5E46TUH763VYPGAQ77BPQ5/NN4EI53RUGC4BO5HP5F46SYQ4WY4U4CE/T2KA2X72VGASVXFVB7QCOIFYVH5GZJTW.woff2
-File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\UM553GIXLG5E46TUH763VYPGAQ77BPQ5\NN4EI53RUGC4BO5HP5F46SYQ4WY4U4CE\T2KA2X72VGASVXFVB7QCOIFYVH5GZJTW-1.woff2
-Content Type: application/octet-stream
-
-rd-party-assets/fontshare/wf/A54N3N7J5AY6YOPYJKLHF5VH7G7HSSUN/ERWIWIB434FMFHQFSSBD233EP3C62HOI/TOHQHMLIEIPKVF2JPM6SVKXFYGO5G2TJ.woff2
 File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\A54N3N7J5AY6YOPYJKLHF5VH7G7HSSUN\ERWIWIB434FMFHQFSSBD233EP3C62HOI\TOHQHMLIEIPKVF2JPM6SVKXFYGO5G2TJ.woff2
 Content Type: application/octet-stream
 
@@ -740,5 +688,80 @@ Content Type: application/octet-stream
 
 Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/UM553GIXLG5E46TUH763VYPGAQ77BPQ5/NN4EI53RUGC4BO5HP5F46SYQ4WY4U4CE/T2KA2X72VGASVXFVB7QCOIFYVH5GZJTW.woff2
 File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\UM553GIXLG5E46TUH763VYPGAQ77BPQ5\NN4EI53RUGC4BO5HP5F46SYQ4WY4U4CE\T2KA2X72VGASVXFVB7QCOIFYVH5GZJTW.woff2
+Content Type: application/octet-stream
+
+amer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\default_script0.7KLCH4DJ-2.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/4IAJHTM0IdVz6g6YY2Bo52/_9253RK8W1YJcawJ7my9cvf7zXL0S4f_Uwsj6t4fr70.PFGB6C7U.mjs
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\sites\4IAJHTM0IdVz6g6YY2Bo52\_9253RK8W1YJcawJ7my9cvf7zXL0S4f_Uwsj6t4fr70.PFGB6C7U.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/2T24MWUOKZU65SZJ33GPRGNOKE4KPOBX/T6LIXZJIPB23UDPMTIKURYWSZLXZBJ3A/THF5L6EHVL4N4NNE3GYDZNZSHABL5CH5.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\2T24MWUOKZU65SZJ33GPRGNOKE4KPOBX\T6LIXZJIPB23UDPMTIKURYWSZLXZBJ3A\THF5L6EHVL4N4NNE3GYDZNZSHABL5CH5-2.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/2UC2M25RQ2XRSGCBJRQ2G5SNXCROECQB/QJT3T33NN372363FJY5EO5D63GKDKLDK/IOAFMDAPNX3S6OL2GYQQJ2FFJIRSVB3N.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\2UC2M25RQ2XRSGCBJRQ2G5SNXCROECQB\QJT3T33NN372363FJY5EO5D63GKDKLDK\IOAFMDAPNX3S6OL2GYQQJ2FFJIRSVB3N-2.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/47WQXPVBB5FZSBSKG7EM3GTGOVFM5BBT/ODED7M7ROA7KYKTD3MYSN4KKO6JVXBQE/EE3DYKUPHF3W5SWXFO53CRP5KMNTTNTH.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\47WQXPVBB5FZSBSKG7EM3GTGOVFM5BBT\ODED7M7ROA7KYKTD3MYSN4KKO6JVXBQE\EE3DYKUPHF3W5SWXFO53CRP5KMNTTNTH-2.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/5SZVFDB7V52TI6ULVC6J3WQZQCIZVDV5/ODYPSTCUDMKSTYIPTV4CLQ7URIK7XYBJ/YS3VPNVO4B3TOJMEXDGFZQ4TLZGGSRZC.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\5SZVFDB7V52TI6ULVC6J3WQZQCIZVDV5\ODYPSTCUDMKSTYIPTV4CLQ7URIK7XYBJ\YS3VPNVO4B3TOJMEXDGFZQ4TLZGGSRZC-2.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/A54N3N7J5AY6YOPYJKLHF5VH7G7HSSUN/ERWIWIB434FMFHQFSSBD233EP3C62HOI/TOHQHMLIEIPKVF2JPM6SVKXFYGO5G2TJ.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\A54N3N7J5AY6YOPYJKLHF5VH7G7HSSUN\ERWIWIB434FMFHQFSSBD233EP3C62HOI\TOHQHMLIEIPKVF2JPM6SVKXFYGO5G2TJ-2.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/CDEBEFT2R7XKNGXSBBLZGMY4MMHZG75P/HEVKDGQCYDZ7Z6CDVR2ZQGBCTUD6ZARH/BKWEE3VKGTFABE37K2DTH625VUSN2N35.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\CDEBEFT2R7XKNGXSBBLZGMY4MMHZG75P\HEVKDGQCYDZ7Z6CDVR2ZQGBCTUD6ZARH\BKWEE3VKGTFABE37K2DTH625VUSN2N35-2.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/FQHNKZEV35SAMFWVFCFSORJXUNHNILL4/X4YCR4COAQTK5XB6JCDDBS7Q33AQWUAE/J7XVDQ2IJENINPUAVBDJNH3VEXVDSPQQ.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\FQHNKZEV35SAMFWVFCFSORJXUNHNILL4\X4YCR4COAQTK5XB6JCDDBS7Q33AQWUAE\J7XVDQ2IJENINPUAVBDJNH3VEXVDSPQQ-2.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/HBNTRIISA5MEXGL5WPYI7CV2HIWTDV3Q/YDPDINVT673XLXNSTMLG4JNCZZMVVNPN/Y7SCNZJOT2MW5ADSGOFLDGH4TNL4JCQY.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\HBNTRIISA5MEXGL5WPYI7CV2HIWTDV3Q\YDPDINVT673XLXNSTMLG4JNCZZMVVNPN\Y7SCNZJOT2MW5ADSGOFLDGH4TNL4JCQY-2.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI/PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD/GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI\PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD\GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR-2.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/LVPXCMXCWY3V7PSXRMGRQUJDAS2DT47E/BPEVRT2HG7PPVVUS7A67MZQQZW6LR6A5/A7AS3UPAGLC7MDVC67SBNTE5FGF2Z2RG.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\LVPXCMXCWY3V7PSXRMGRQUJDAS2DT47E\BPEVRT2HG7PPVVUS7A67MZQQZW6LR6A5\A7AS3UPAGLC7MDVC67SBNTE5FGF2Z2RG-2.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/MPIFA4B3XXRNY2MJDGP6GOOOAF6EOCLO/W5E4ZFYPJ3V6JKMBGHB6YMITK6EWS2XA/QOMBWPST76ICDYF6WOBS7SQ7RBT67QW2.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\MPIFA4B3XXRNY2MJDGP6GOOOAF6EOCLO\W5E4ZFYPJ3V6JKMBGHB6YMITK6EWS2XA\QOMBWPST76ICDYF6WOBS7SQ7RBT67QW2-2.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/NID3I7RITWZSKXRCJGOCMP5NOADJK6IG/2HLHGD7OBTWCOHW64YXOE5KFXHU4KJHM/ZHME2QIRFR7UPJ47NLY27RCAFY44CKZJ.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\NID3I7RITWZSKXRCJGOCMP5NOADJK6IG\2HLHGD7OBTWCOHW64YXOE5KFXHU4KJHM\ZHME2QIRFR7UPJ47NLY27RCAFY44CKZJ-2.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/OYB4CXKJQXKTNSLJMTDQOIVUL2V5EL7S/WYO2P7DQVV5RNXGMCUO2HL4RJP4VFUAS/6XPIMU23OJVRY676OG5YVJMWEHWICATX.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\OYB4CXKJQXKTNSLJMTDQOIVUL2V5EL7S\WYO2P7DQVV5RNXGMCUO2HL4RJP4VFUAS\6XPIMU23OJVRY676OG5YVJMWEHWICATX-2.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA/ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB/7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA\ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB\7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP-2.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/QMRBNVYKDJEZ66DA22SPWH5EVVYACHCU/ZHMXHHA546NDNEHJN5RPZX5KISJY5CWF/C6VLICDGQWYKV6YT65TM5G3OVN4AOZBN.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\QMRBNVYKDJEZ66DA22SPWH5EVVYACHCU\ZHMXHHA546NDNEHJN5RPZX5KISJY5CWF\C6VLICDGQWYKV6YT65TM5G3OVN4AOZBN-2.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/TTX2Z3BF3P6Y5BQT3IV2VNOK6FL22KUT/7QYRJOI3JIMYHGY6CH7SOIFRQLZOLNJ6/KFIAZD4RUMEZIYV6FQ3T3GP5PDBDB6JY.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\TTX2Z3BF3P6Y5BQT3IV2VNOK6FL22KUT\7QYRJOI3JIMYHGY6CH7SOIFRQLZOLNJ6\KFIAZD4RUMEZIYV6FQ3T3GP5PDBDB6JY-2.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/UM553GIXLG5E46TUH763VYPGAQ77BPQ5/NN4EI53RUGC4BO5HP5F46SYQ4WY4U4CE/T2KA2X72VGASVXFVB7QCOIFYVH5GZJTW.woff2
+File Name: C:\Downloaded Web Sites\creativestudios.framer.website\third-party-assets\fontshare\wf\UM553GIXLG5E46TUH763VYPGAQ77BPQ5\NN4EI53RUGC4BO5HP5F46SYQ4WY4U4CE\T2KA2X72VGASVXFVB7QCOIFYVH5GZJTW-2.woff2
 Content Type: application/octet-stream
 
